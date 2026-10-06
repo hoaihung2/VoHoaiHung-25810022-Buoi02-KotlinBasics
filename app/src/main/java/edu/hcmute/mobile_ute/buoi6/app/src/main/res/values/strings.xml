@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Build a scrollable list</string>
+    <string name="affirmation1">1.</string>
+    <string name="affirmation2">2</string>
+    <string name="affirmation3">3</string>
+    <string name="affirmation4">4</string>
+    <string name="affirmation5">5</string>
+    <string name="affirmation6">6</string>
+    <string name="affirmation7">7</string>
+    <string name="affirmation8">8</string>
+    <string name="affirmation9">9</string>
+    <string name="affirmation10">10</string>
+</resources>
